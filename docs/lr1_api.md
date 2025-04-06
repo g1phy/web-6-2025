@@ -215,11 +215,3 @@ alembic upgrade head
 ```
 uvicorn app.main:app --reload
 ```
-
-## 🎯 Практика
-
-### Практика 1 — [тык](https://github.com/g1phy/web-6-2025/tree/laba_1/practics/PR1)
-
-### Практика 2 — [тык](https://github.com/g1phy/web-6-2025/tree/laba_1/practics/PR2)
-
-### Практика 3 — [тык](https://github.com/g1phy/web-6-2025/tree/laba_1/practics/PR3)
